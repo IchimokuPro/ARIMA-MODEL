@@ -1,7 +1,7 @@
 # ARIMA-MODEL
 
 
-Sure, here's a short description that you can use to update the README file for your GitHub repository:
+
 
 Time Series Forecasting with SARIMAX Model
 This repository contains Python code for implementing a SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Regressors) model for time series forecasting. The SARIMAX model is used to analyze and predict patterns in time series data, making it a valuable tool in various domains such as finance, economics, and more.
